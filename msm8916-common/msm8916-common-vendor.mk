@@ -241,6 +241,5 @@ PRODUCT_PACKAGES += \
     imscmlibrary \
     qcnvitems \
     qcrilhook \
-    com.qualcomm.location \
     com.qti.location.sdk \
     izat.xt.srv
