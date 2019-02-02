@@ -6,5 +6,9 @@
  -->
 <permissions>
     <library name="com.qti.vzw.ims.internal"
+<<<<<<< HEAD
           file="/system/vendor/framework/qti-vzw-ims-internal.jar"/>
+=======
+          file="/vendor/framework/qti-vzw-ims-internal.jar"/>
+>>>>>>> 4da9d1bf... msm8916-common: update RIL and IMS for Oreo
 </permissions>
